@@ -17,8 +17,6 @@
                 <p><i>Sim-Avergonzado</i></p>
                 <p><a href="https://selflove-sheanaavergonzado.c9users.io/welcome.html">Link</a></p>
                 <p><a href="https://scratch.mit.edu/projects/246340804/#player">Scratch
-      </body>
-      </html>
       <html>
 <body background="https://secure.i.telegraph.co.uk/multimedia/archive/03147/Teletubbies-baby-s_3147210b.jpg">
     </body>
