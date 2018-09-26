@@ -1,5 +1,4 @@
 # SheanaKamaile
-<!doctype html>
   <html lang="en">
        <head>
            <meta charset="utf-8">
@@ -10,7 +9,6 @@
                    <img class="irc_mi" src="https://gilmour.com/wp-content/uploads/2018/03/growing-sunflowers.jpg" alt="Image result for sunflowers" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="819" height="475" style="margin-top: 58px;">
            <style>
            </style>
-       </head>
        <body>
            <h1>
                Welcome to Sheana's page, CSP2 </h1>
